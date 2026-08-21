@@ -392,3 +392,4 @@ while juego_activo:
     elif hp_enemigo <= 0:
         print("VICTORIA: Derrotaste al enemigo!")
         juego_activo = False
+        
